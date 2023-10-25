@@ -1,5 +1,8 @@
 .DS_Store
 
+.env
+secrets.properties
+
 HELP.md
 .gradle
 build/
@@ -37,3 +40,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Certificates ###
+*.pem
